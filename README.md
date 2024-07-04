@@ -1,5 +1,3 @@
----
-
 # Weather App
 
 This is a Vue 2 weather application that allows users to select a city and view its current temperature. The application uses the OpenWeatherMap API to fetch weather data and updates the temperature at specified intervals.
@@ -77,7 +75,7 @@ The `App` component is the main application component that orchestrates the othe
 1. **Clone the repository**:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/bilalaslam1122/weather-app.git
    cd weather-app
    ```
 
