@@ -10,8 +10,6 @@ The `SearchModal` component provides a modal for users to search for cities and 
 
 - **Props**: None
 - **Data**:
-  - `IconCancel`: Path to the cancel icon.
-  - `IconSearch`: Path to the search icon.
   - `searchQuery`: The current search query input by the user.
   - `cityOptions`: Array of city options returned from the API.
   - `debounceTimeout`: Timeout identifier for debouncing API requests.
