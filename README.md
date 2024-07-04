@@ -92,7 +92,7 @@ The `App` component is the main application component that orchestrates the othe
    ```json
    {
      "apiKey": "YOUR_OPENWEATHERMAP_API_KEY",
-     "updateInterval": 10  // Update interval in minutes
+     "updateInterval": 10  
    }
    ```
 
